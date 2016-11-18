@@ -8,4 +8,6 @@ Drupal core features + Comic Relief features
 - Objectfit
 - Mediaquery
 
+If you want to add more features to this file, go to:
+
 https://modernizr.com/download/?cssmask-details-flexbox-mediaqueries-objectfit-svg-touchevents-setclasses
